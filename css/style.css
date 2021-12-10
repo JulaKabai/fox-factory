@@ -279,7 +279,7 @@ section {
   box-shadow: 0 0 5px #00000026;
   border-radius: 5px;
   border-color: #00000026;
-  font: normal normal bold 14px/19px Open Sans;
+  font-size: 14px;
 }
 .goods-data {
   width: 40%;
