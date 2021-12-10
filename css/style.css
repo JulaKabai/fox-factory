@@ -298,7 +298,8 @@ section {
 .right-pillar {
   height: 20px;
   width: 158px;
-  font: normal normal bold 14px/19px Open Sans;
+  font-size: 14px;
+  font-weight: bold;
 }
 .left-pillar {
   height: 20px;
