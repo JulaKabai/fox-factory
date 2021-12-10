@@ -303,7 +303,7 @@ section {
 .left-pillar {
   height: 20px;
   width: 226px;
-  font: normal normal normal 14px/20px Open Sans;
+  font-size: 14px;
   color: #6e6e6e;
 }
 .left-images-container {
