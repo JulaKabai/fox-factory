@@ -126,7 +126,7 @@ section {
 .details {
   width: 123px;
   height: 22px;
-  font: normal normal bold 14px/20px;
+  font: normal normal bold 14px/20px Open Sans;
   padding-left: 36px;
 }
 
@@ -136,6 +136,7 @@ section {
   display: flex;
   padding: 20px 20px 40px 20px;
   flex-flow: wrap;
+  font-size: bolder;
 }
 .text-block {
   width: 60%;
@@ -172,7 +173,7 @@ section {
   width: 50%;
   height: 20px;
   /* margin-left: 19px; */
-  font: normal normal bold 14px/19px Open Sans;
+  font: normal normal bolder 14px/19px Open Sans;
   letter-spacing: 0px;
 }
 .right-data {
@@ -265,7 +266,7 @@ section {
   float: left;
 }
 .X1-button-container {
-  width: 120px;
+  width: 95px;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -278,7 +279,7 @@ section {
   color: #e10b7f;
   box-shadow: 0 0 5px #00000026;
   border-radius: 5px;
-  border-color: #00000026;
+  border:0;
   font-size: 14px;
 }
 .goods-data {
@@ -320,6 +321,9 @@ section {
   height: 60px;
   padding-left: 76px;
   /* padding-right: 10px; */
+}
+.numbers{
+  font: normal normal bold 14px/20px Open Sans;
 }
 .goods-image {
   width: 78px;
